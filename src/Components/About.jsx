@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Goal-oriented Web Developer brings strong commitment to collaboration and solutions-oriented problem-solving. Use various web design software to develop customer-focused websites and designs. websites and designs. Detail-oriented, organized and meticulous employee. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success. Organized and dependable candidate successful at managing multiple priorities with a positive attitude.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Web Development",
+  "Cyber Security",
+  "Coding",
+  "Public Speaking",
+  "JavaScript",
+  "Java",
+  "Python",
+  "R Programming",
+  "Flutter & Dart",
 ];
 
 /**
@@ -45,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Programmers are the architects of the digital world, shaping ideas into reality with lines of code and endless creativity.";
 
 const About = () => {
   return (
