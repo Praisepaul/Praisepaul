@@ -40,6 +40,7 @@ const skillsList = [
   "Python",
   "R Programming",
   "Flutter & Dart",
+  "NodeJS",
 ];
 
 /**
