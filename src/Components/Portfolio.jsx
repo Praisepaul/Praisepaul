@@ -38,7 +38,8 @@ const projectList = [
   },
   {
     title: "Link to my Resume",
-    description: "This is a link to my resume. Have a look at it. I am open to opportunities. My contact details are on the resume.",
+    description:
+      "This is a link to my resume. Have a look at it. I am open to opportunities. My contact details are on the resume.",
     url: "https://shorturl.at/kxLW5",
   },
   {
