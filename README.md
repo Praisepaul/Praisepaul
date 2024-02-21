@@ -1,7 +1,5 @@
 # Hi there! I'm Praise Paul 👋
-<div style="float: right; overflow: hidden; border-radius: 50%;">
-  <img src="https://instagram.fvga2-1.fna.fbcdn.net/v/t51.2885-19/420570485_1178677116434462_3810756295985651312_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fvga2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=0HoUX9rnqT4AX_aqrOp&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDq5rIi_Pjpm111H9_Gb34WEW8N86np6CFTVIi69Ahjbw&oe=65D9E458&_nc_sid=8b3546" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%;">
-</div>
+
 Welcome to my GitHub playground! A dynamic Software Engineer and certified Cybersecurity Professional based in Karnataka. I'm eager to explore the realms of Cybersecurity and craft secure, cutting-edge software solutions, combining technical prowess with a visionary mindset.
 
 - Passionate Technologist | Cybersecurity Enthusiast | Innovator
