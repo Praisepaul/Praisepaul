@@ -11,7 +11,7 @@ Welcome to my GitHub playground! A dynamic Software Engineer and certified Cyber
 
 - 🌱 Exploring the realms of Cyber Security and Secure Software Designs.
 - 🎓 Studying BTech Computer Science and Engineering at Vellore Institute of Technology, Amaravati.
-- 🌐 Find me online @ [Your Portfolio Website](https://www.praisepaul.engineer) | [Microsoft MVP](https://mvp.microsoft.com/en-US/studentambassadors/profile/4ef8573a-1ecf-43e0-bcf8-da9f9c6888c0) | [Vahani Scholar](https://www.vahanischolarship.com/2021)
+- 🌐 Find me online @ [Your Portfolio Website](https://praisepaul.live) | [Microsoft MVP](https://mvp.microsoft.com/en-US/studentambassadors/profile/4ef8573a-1ecf-43e0-bcf8-da9f9c6888c0) | [Vahani Scholar](https://www.vahanischolarship.com/2021)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/praise-paul) | [Facebook](https://www.facebook.com/praise4jesuschrist) | [Instagram](https://www.instagram.com/_praise_paul) | [Google CloudSkills](https://www.cloudskillsboost.google/public_profiles/2b45670d-7cb9-4a9b-81d1-47db32425fef) | [Medium Blog](https://medium.com/@praise20024christ)
 - 📄 My Resume at [Resume](https://shorturl.at/kxLW5)
 - 🖥️ Coding Profiles [HackerRank](https://www.hackerrank.com/profile/praise20024chri1) | [LeetCode](https://leetcode.com/Praisepaul/)
@@ -20,7 +20,7 @@ Welcome to my GitHub playground! A dynamic Software Engineer and certified Cyber
    **Vellore Institute of Technology Amaravati**  
       *Computer Science Engineering Bachelors*  
       August 2021 - July 2025  
-      CGPA: 8.90
+      CGPA: 8.82
 
 ## 🔧 Technologies & Tools
 
