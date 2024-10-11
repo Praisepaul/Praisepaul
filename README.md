@@ -12,6 +12,7 @@ Welcome to my GitHub playground! A dynamic Software Engineer and certified Cyber
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Praisepaul&theme=dark" alt="LeetCode Badges"/>
   <img align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Praisepaul?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
+  
 ## 🚀 About Me
 
 - 🌱 Exploring the realms of Cyber Security and Secure Software Designs.
