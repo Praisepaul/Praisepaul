@@ -7,6 +7,7 @@ Welcome to my GitHub playground! A dynamic Software Engineer and certified Cyber
 - Innovator at Heart | Problem Solver | Tech Evangelist
 - Polyglot Coder | Cloud Enthusiast | Open-Source Contributor
 
+
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=Praisepaul&theme=dark" alt="LeetCode Badges"/>
